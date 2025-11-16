@@ -84,11 +84,11 @@ src/
 └── lib/                # Utility functions and configurations
 ```
 
-## 🎨 Available Features & Components
+##  Available Features & Components
 
 This scaffold includes a comprehensive set of modern web development tools:
 
-### 🧩 UI Components (shadcn/ui)
+###  UI Components (shadcn/ui)
 - **Layout**: Card, Separator, Aspect Ratio, Resizable Panels
 - **Forms**: Input, Textarea, Select, Checkbox, Radio Group, Switch
 - **Feedback**: Alert, Toast (Sonner), Progress, Skeleton
@@ -96,23 +96,23 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Overlay**: Dialog, Sheet, Popover, Tooltip, Hover Card
 - **Data Display**: Badge, Avatar, Calendar
 
-### 📊 Advanced Data Features
+###  Advanced Data Features
 - **Tables**: Powerful data tables with sorting, filtering, pagination (TanStack Table)
 - **Charts**: Beautiful visualizations with Recharts
 - **Forms**: Type-safe forms with React Hook Form + Zod validation
 
-### 🎨 Interactive Features
+###  Interactive Features
 - **Animations**: Smooth micro-interactions with Framer Motion
 - **Drag & Drop**: Modern drag-and-drop functionality with DND Kit
 - **Theme Switching**: Built-in dark/light mode support
 
-### 🔐 Backend Integration
+###  Backend Integration
 - **Authentication**: Ready-to-use auth flows with NextAuth.js
 - **Database**: Type-safe database operations with Prisma
 - **API Client**: HTTP requests with Axios + TanStack Query
 - **State Management**: Simple and scalable with Zustand
 
-### 🌍 Production Features
+###  Production Features
 - **Internationalization**: Multi-language support with Next Intl
 - **Image Optimization**: Automatic image processing with Sharp
 - **Type Safety**: End-to-end TypeScript with Zod validation
